@@ -36,5 +36,6 @@ print(f"Split blog post into {len(all_splits)} sub-documents.") # we have 63 sub
 
 # Note if the print of len of all_splits is 1 then our logic has failed.
 
+#Storing Documents, Indexing:
 
 
